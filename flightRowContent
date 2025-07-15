@@ -1,0 +1,4 @@
+MarqueeText(text: flight.airline, font: .system(size: 14))
+    .fontWeight(.semibold)
+    .foregroundColor(.gray)
+    .frame(height: 20)
